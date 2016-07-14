@@ -1,0 +1,4 @@
+-   name: editorconfig
+    type: settings
+    dest: './'
+    description: "Config Editor"
