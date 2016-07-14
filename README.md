@@ -10,4 +10,4 @@ Add this to your `.veny.yaml`
 
     - repo: git://github.com/hadenlabs/veny-editorconfig
       sha: HEAD
-      path: ./
+      dest: ./
